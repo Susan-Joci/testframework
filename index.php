@@ -6,6 +6,8 @@ foreach (glob("Config/*.php") as $filename) {
 }
 
 // some test comments.
+// some comments goes here.
+// some more comments goes here.
 
 include('System/Autoload/Autoloader.php');
 
