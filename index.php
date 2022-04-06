@@ -5,7 +5,7 @@ foreach (glob("Config/*.php") as $filename) {
     require_once($filename);
 }
 
-
+// some test comments.
 
 include('System/Autoload/Autoloader.php');
 
